@@ -11,4 +11,4 @@ Download the folder: Quake-Parser-ilso and extract it to the desktop.
 Acess: https://quake-parser-ilso.netlify.app/  and choose the file Quake.txt
 
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100448527/185747789-974ea798-f6a6-4c92-8fdf-86c670c07299.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/100448527/185926349-fbcf8e13-3651-4f7a-8365-78bc52937222.gif)
