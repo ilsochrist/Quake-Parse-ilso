@@ -1,4 +1,4 @@
-# Quake-Parse-Ilso
+# Quake-Parse-Ilso-Challenge
 
 This is  project for the challenge Build a Parser for the log file.
 
